@@ -6,25 +6,27 @@
 //:    1¿Qué hace el archivo ViewController.swift?
 /*
 Respuesta:
+ Es un controlador para poner el codigo este reacciona a los eventos del usuario
  
  */
 
 //: 2. ¿Qué puedes hacer dentro del archivo Main.storyboard?
 /*
-Respuesta:
+Respuesta: es la representacion visual de la interfaz de usuario de la apliccon de ios, muestra el contenido de la s pantallas y las conecciones entre estas.
  
  */
 
 //: 3. ¿Cuál es la diferencia entre IBOutlet y IBAction?
 /*
 Respuesta:
- 
+ el IBOutlet es una variable la cual hace referencia a un componente UI
+ EL IBAction es una funcion la cual es llamada cuando ocurre una interaccion con un usuario especifico.
  */
 
 //: 4. ¿Menciona al menos una ventaja al utilizar UIStackView?
 /*
 Respuesta:
- 
+ usar alineacion, distribuicion y espacio. 
  */
 
 //: 5. ¿Cuál es la versión más actual de Swift y iOS?
@@ -34,7 +36,7 @@ Respuesta:
 //: d) Swift: 5.0 iOS: 13
 /*
 Respuesta:
- 
+ d
  */
 
 //: 6. ¿Qué tengo que hacer para que mi interfaz sea vean *bien* en todos los dispositivos (Por *bien* me refiero a que si pongo un botón en el centro de mi vista y al girarlo, ese botón se siga viendo en el centro)?
@@ -43,6 +45,8 @@ Respuesta:
 //: - c) Ninguna de las anteriores
 /*
 Respuesta:
+ 
+ b
  
  */
 
